@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\bin\Debug\MidtermExam.exe.config
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\bin\Debug\MidtermExam.exe
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\bin\Debug\MidtermExam.pdb
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.Form1.resources
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.Properties.Resources.resources
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.exe
+C:\Users\ASUS\Documents\VSCode 2022\MidtermExam\obj\Debug\MidtermExam.pdb
